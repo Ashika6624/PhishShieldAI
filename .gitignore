@@ -4,3 +4,8 @@ __pycache__/
 .vscode/
 .idea/
 *.log
+
+# Research paper manuscripts & documents (keep local only)
+*.docx
+*.tex
+*.pdf
